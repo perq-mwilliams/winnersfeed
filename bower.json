@@ -1,0 +1,10 @@
+{
+  "name": "winnersfeed",
+  "version": "0.0.0",
+  "homepage": "https://github.com/perq-mwilliams/winnersfeed",
+  "authors": [
+    "Matt Williams <mwilliams@cik.com>"
+  ],
+  "description": "Bower package for Perq WinnersFeed script installs",
+  "license": "none"
+}
